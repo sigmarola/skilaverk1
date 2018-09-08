@@ -113,10 +113,6 @@ elif val == '2':
     synaAfanga(gso)
     #badir = beraSaman(forr, gso)
     print('Nemendur í báðum áföngum:')
-    """if badir:
-        print(beraSaman(forr, gso))
-    else:
-        print('Enginn')"""
     print(beraSaman(forr, gso))
     #segir hvor hópur er stærri
     def synaStærri(afg1, afg2):
